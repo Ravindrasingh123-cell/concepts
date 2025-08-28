@@ -33,8 +33,8 @@ An object is an individual instance of a class. Each object has its own values f
 Example:
 ```python
 
-emp1 = TrainingEmployee("Alice", "Data Analyst", 2)
-emp2 = TrainingEmployee("Bob", "Software Developer", 3)
+emp1 = TrainingEmployee("Ravindra", "Software Engineer", 2)
+emp2 = TrainingEmployee("Pankaj", "Software Developer", 3)
 ```
 emp1 and emp2 are two objects of the TrainingEmployee class with different attribute values.
 
@@ -60,7 +60,7 @@ You can call these methods on the object:
 
 ```python
 
-emp1.introduce()          # Output: Hello, my name is Alice and I work as a Data Analyst.
+emp1.introduce()          # Output: Hello, my name is Ravindra and I work as a Software Engineer.
 emp2.years_of_experience() # Output: I have 3 years of experience.
 ```
 ### 4. Encapsulation
@@ -82,7 +82,7 @@ Here, __salary is private and cannot be accessed directly outside the class:
 
 ```python
 
-emp = TrainingEmployee("Alice", 70000)
+emp = TrainingEmployee("Ravindra", 70000)
 print(emp.get_salary())  # Works fine
 print(emp.__salary)      # Raises AttributeError
 ```
@@ -107,9 +107,9 @@ class Trainer(Employee):
 ```
 ```python
 
-trainer = Trainer("Bob", "Trainer")
-trainer.work()               # Output: Bob is working as a Trainer.
-trainer.conduct_training()   # Output: Bob is conducting training sessions.
+trainer = Trainer("Santu", "Trainer")
+trainer.work()               # Output: Santu is working as a Trainer.
+trainer.conduct_training()   # Output: Santu is conducting training sessions.
 ```
 ### 6. Polymorphism
 Polymorphism means the ability to use the same method name in different classes with different behaviors.
@@ -149,7 +149,7 @@ Developer is writing code.
 
 - **Object**  
   An object is a specific instance of a class with its own unique data. When you create an object, you are creating a real-world entity based on the class blueprint.  
-  *Example:* `emp1 = TrainingEmployee("Alice", "Analyst")` creates an object representing Alice.
+  *Example:* `emp1 = TrainingEmployee("Ravindra", "Analyst")` creates an object representing Ravindra.
 
 - **Methods**  
   Methods are functions defined inside a class that describe the actions or behaviors an object can perform.  
