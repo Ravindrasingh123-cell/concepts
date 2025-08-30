@@ -8,7 +8,7 @@ After joining a new project, I found the codebase to be difficult to read, test,
 
 ## What is SOLID?
 
-**SOLID** is an acronym representing five principles that help software developers design systems that are easy to maintain and extend over time. These principles were introduced by Robert C. Martin (Uncle Bob) and are widely used in object-oriented programming.
+SOLID stands for five ideas that help me write code that’s easy to maintain and grow. Robert C. Martin introduced these, and they’re really useful for object-oriented programming.SOLID stands for five ideas that help me write code that’s easy to maintain and grow. Robert C. Martin introduced these, and they’re really useful for object-oriented programming.
 
 
 ![SOLID](https://media.geeksforgeeks.org/wp-content/uploads/20220910005416/SingleResponsibility2.png)
@@ -19,7 +19,7 @@ After joining a new project, I found the codebase to be difficult to read, test,
 
 #### 1. Single Responsibility Principle (SRP)
 
-    “A class should have only one reason to change which means every class should have a single responsibility or single job or single purpose. In other words, a class should have only one job or purpose within the software system.”
+    Every class should have just one job. If a class does too many things, it’s tough to change without messing something up.
 
 #### Example:
 
@@ -71,7 +71,7 @@ class TraineeLeave:
 
 #### 2. Open/Closed Principle (OCP)
 
-    “Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification which means you should be able to extend a class behavior, without modifying it.”
+    Classes should let me add new features without changing their code. I should extend, not edit.
 
 #### Example:
 
@@ -109,7 +109,7 @@ def print_report(report: Report):
 
 #### 3. Liskov Substitution Principle (LSP)
 
-    “This principle ensures that any class that is the child of a parent class should be usable in place of its parent without any unexpected behaviour.”
+    If I have a parent class, any child class should work in its place without causing problems.
 
 #### Example:
 
@@ -155,7 +155,7 @@ class FullTimeTrainee(ReportableTrainee):
 
 #### 4. Interface Segregation Principle (ISP)
 
-    “Clients should not depend on interfaces they do not use. It states that - " Do not force any client to implement an interface which is irrelevant to them ". Here main goal is to focus on avoiding fat interface and give preference to many small client-specific interfaces.”
+    Don’t make a class use stuff it doesn’t need. Keep interfaces small and specific.
 
 #### Example:
 
@@ -190,7 +190,7 @@ class QATrainee(TestWriter):
 
 #### 5. Dependency Inversion Principle (DIP)
 
-    “High-level modules should not depend on low-level modules.”
+    High-level modules should not depend on low-level modules.
 
 #### Example:
 
@@ -238,7 +238,7 @@ class TraineeActivity:
 
 ## Summary 📖
 
-    By applying SOLID principles even to simple systems — like managing a trainee’s responsibilities — we can build maintainable, scalable code that’s easier for teams to understand and modify. These principles help trainees write better code and collaborate more effectively in real-world environments.
+    Using SOLID principles, even in small projects like tracking a trainee’s tasks, helps us write cleaner code that’s easier to understand and update. It also teaches trainees how to write better code and work well with others on a team.
 
 
 ## References 🔗
