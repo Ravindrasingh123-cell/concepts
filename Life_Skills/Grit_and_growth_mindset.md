@@ -1,101 +1,74 @@
-# Grit and Growth Mindset: Key Skills for Success
+# Grit and Growth Mindset
+## 1. Grit
 
-## My Paper
 
-### Overview
+### Question 1: Paraphrase the video in 1–2 lines
 
-I want to talk about grit and growth mindset—two big ideas that help me do well in life and work. I’ll explain what they are, why they matter, and how I can use them to keep growing and handle tough times.
+Grit means not giving up even when things get hard. The video says talent isn't everything — working hard and staying consistent is what leads to success.
 
-### Why This Matters
+## 2. Introduction to Growth Mindset
 
-Knowing a lot of facts isn’t enough to succeed today. Skills like sticking with things and being open to learning are super important. Grit and growth mindset are two ideas that really help me achieve my goals.
 
-### What They Mean
 
+### Question 2: Paraphrase the video in 1–2 lines
 
+Having a growth mindset means believing you can get better at anything with effort and learning. Instead of avoiding mistakes, you learn from them and keep improving.
 
+## 3. Understanding Internal Locus of Control
 
 
-Grit: This is about staying passionate and working hard toward big goals, even when things get tough. Angela Duckworth talks about this.
 
+### Question 3: What is Internal Locus of Control? What’s the key point in the video?
 
+Internal Locus of Control means believing that you are in charge of your own life — not luck or outside things. The main message is: if you take full responsibility for your actions, you stay more motivated and grow faster.
 
-Growth Mindset: Carol Dweck says this is believing I can get better at things through hard work and learning, not just thinking my skills are set in stone.
+## 4. How to Build a Growth Mindset
 
-### The Science Behind Them
 
+### Question 4: What are the key points mentioned to build a growth mindset?
 
+- Believe that skills can be learned
 
+- Learn from failures and keep trying
 
+- Don’t compare yourself to others
 
-Grit is about keeping going, no matter what challenges come up.
+- Focus on progress, not perfection
 
+- Ask for feedback and use it to improve
 
+- Stay consistent with your efforts
 
-Growth Mindset means I see mistakes as a chance to learn and value effort over just being “naturally good.”
+## 5. Mindset – A MountBlue Warrior Reference Manual
 
-These ideas push back against thinking my abilities can’t change, which is called a fixed mindset.
+- [Link to Google Docs - Mindset](https://docs.google.com/document/d/1SPUqC-8WwfiDlsRGKWqoMtC14v6_2TEhq7LZs29bJWk/edit?tab=t.0#heading=h.qwdb3aocyc7o)
 
-### Why They’re Great
+### Question 5: What are your ideas to take action and build Growth Mindset?
 
+- I’ll remind myself that it’s okay to make mistakes while learning.
 
+- I’ll try to focus on improving a little every day instead of expecting quick results.
 
+- I’ll ask for feedback without feeling bad and use it to get better.
 
+- I’ll stop comparing myself to others and focus on my own progress.
 
-- Better Results: People with grit and a growth mindset often do better in school or at work.
+- I’ll stay patient, keep showing up, and trust the process.
 
 
+## References 
 
-- Bouncing Back: These skills help me recover from failures and keep going.
+- Grit Video – Angela Duckworth:
+https://www.youtube.com/watch?v=H14bBuluwB8
 
+- Introduction to Growth Mindset – Eduardo Briceño:
+https://www.youtube.com/watch?v=75GFzikmRY0
 
+- How to Stay Motivated: The Locus Rule – Internal Locus of Control:
+https://www.youtube.com/watch?v=8ZhoeSaPF-k
 
-- Staying Excited: They make me love learning and want to keep improving.
+- How to Build a Growth Mindset – Eduardo Briceño:
+https://www.youtube.com/watch?v=9DVdclX6NzY
 
-### How I Can Use Them
-
-
-
-
-
-- In School: I can use growth mindset ideas to stay motivated and tackle tough subjects.
-
-
-
-- At Work: Setting goals and getting feedback helps me build grit and keep improving.
-
-
-
-- In Life: I can think about my progress, set goals that challenge me, and learn from my mistakes.
-
-### Some Challenges
-
-
-
-
-
-Too much focus on grit might make me feel burned out if I don’t take care of myself.
-
-
-
-Things like my environment or culture can make it harder to develop these skills.
-
-### Final Thoughts
-
-Grit and growth mindset are awesome skills that help me push through tough times and keep growing. By working on these, I can do better in school, work, and life while feeling stronger and happier.
-
-### References
-
-
-
-
-
-- Angela Duckworth’s TED Talk on Grit: https://www.youtube.com/watch?v=H14bBuluwB8
-
-
-
-- Carol Dweck’s TED Talk on Growth Mindset: https://www.youtube.com/watch?v=_X0mgOOSpLU
-
-
-
-- Article on Growth Mindset by Google: https://www.google.com/amp/s/www.psychologytoday.com/us/blog/the-moment-youth/201609/growth-mindset-what-it-and-why-it-matters%3Famp
+- Mindset - A MountBlue Warrior Reference Manual – Google Docs:
+https://docs.google.com/document/d/1SPUqC-8WwfiDlsRGKWqoMtC14v6_2TEhq7LZs29bJWk
