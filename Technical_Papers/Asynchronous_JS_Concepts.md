@@ -449,10 +449,10 @@ processData('Ravindra', (result) => {
 
 ### Problems with Inversion of Control
 
-1. **Unpredictable Execution**: You don't control when callbacks run
-2. **Multiple Calls**: Callback might be called multiple times
-3. **No Error Handling**: No guarantee of error handling
-4. **Trust Issues**: You must trust the callback function
+1. **Unpredictable Execution** : You don't control when callbacks run
+2. **Multiple Calls** : Callback might be called multiple times
+3. **No Error Handling** : No guarantee of error handling
+4. **Trust Issues** : You must trust the callback function
 
 ### Example of Trust Issues
 
